@@ -1,14 +1,16 @@
+/*universal selector*/ 
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/*body style*/ 
 body {
     background-color: #d9dcd6;
 }
 
-/*header starts here*/ 
+/*header and nav starts here*/ 
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +52,7 @@ a {
 p {
     font-size: 16px;
 }
+/*header ends here*/ 
 
 /*hero/jumbotron*/
 .hero {
@@ -70,6 +73,7 @@ p {
     float: right;
     margin-left: 25px;
 }
+/*hero/jumbotron sections ends here*/
 
 /*content styles*/
 .content {
@@ -77,8 +81,9 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+/*content styles ends here*/
 
-/*img and desc section*/
+/*img and desc resources section*/
 .resources {
     margin-bottom: 20px;
     padding: 50px;
@@ -96,8 +101,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*img and desc resources ends here*/
 
-/*benefits section*/
+/*benefits section starts here*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -109,21 +115,28 @@ p {
     background-color: #2589bd;
 }
 
-.benefits div {
+.benefit-lead, 
+.benefit-brand, 
+.benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefits h3 {
+.benefit-lead h3, 
+.benefit-brand h3, 
+.benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefits img {
+.benefit-lead img, 
+.benefit-brand img, 
+.benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
+/*benefits section ends here*/
 
 /*footer starts here*/
 .footer {
@@ -136,3 +149,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/*footer ends here*/
