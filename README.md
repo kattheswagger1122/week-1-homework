@@ -27,6 +27,5 @@ I organized the codes accroding to the standards
 THEN I find a concise, descriptive title
 I gave a unique name to the webpage
 
-
 - - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
