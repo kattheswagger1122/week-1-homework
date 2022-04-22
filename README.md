@@ -34,9 +34,13 @@ I organized the codes accroding to the standards
 THEN I find a concise, descriptive title
 I gave a unique name to the webpage
 
+![assets/images/Screen Shot 2022-04-21 at 10.55.15 PM.png](assets/images/Screen Shot 2022-04-21 at 10.55.15 PM.png)
+![assets/images/Screen Shot 2022-04-21 at 10.55.30 PM.png](assets/images/Screen Shot 2022-04-21 at 10.55.23 PM.png)
+![](assets/images/Screen Shot 2022-04-21 at 10.55.30 PM.png)
+
+Link to deployed application: https://kattheswagger1122.github.io/week-1-homework/
+
+
+
 - - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
-
-![](assets/images/Screen Shot 2022-04-21 at 10.55.15 PM.png)
-![](assets/images/Screen Shot 2022-04-21 at 10.55.23 PM.png)
-![](assets/images/Screen Shot 2022-04-21 at 10.55.30 PM.png)
